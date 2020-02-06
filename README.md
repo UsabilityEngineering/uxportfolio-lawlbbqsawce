@@ -8,4 +8,5 @@ I enrolled in Usability Engineering so I could learn more about why some things 
 
 
 ## UX Journal
+[Journal One](/journal-01/README.md)
 
