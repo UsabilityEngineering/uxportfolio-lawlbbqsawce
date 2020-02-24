@@ -8,11 +8,11 @@
 <p>When we live in a world as interconnected as ours, it is more challenging and more important than ever to use truly secure passwords. Unfortunately the vast majority of us make memorable passwords, re-use passwords, or just alter our existing ones. Ideal passwords would simply be long strings of random characters, if anyone could remember one for even a day. While passwords are supposed to be known only by us, they are not designed to be <strong>memorable</strong>. If they were, we could easily remember every password we make. To be fair, though, some people do remember all of their passwords. I know this because I am one such person, but for a different reason than I used to be. I used to know all of my passwords because they were very similar and highly <strong>memorable</strong>. If the wrong account got breached, they all got breached. That is, until I started using a password manager.</p>
 <p>Today I know all of my passwords in the sense that I know my password manager's password, and it knows all my other passwords. Whenever I need a new password, it generates one for me and saves the credentials. Before I got to where I am today, I started with a Google search. I searched for "LastPass Linux" in the hopes I could bring security to this open-source platform.</p>
 
-![Google Image Search for LastPass](../assets/Journal-1.png)
+![Google Image Search for LastPass](../assets/Journal-1/Search%20for%20LastPass.png)
 
 <p>Just then fortune smiled, and I entered LastPass.com in my quest for a download link. So far it had been actions I’d already known and there was a comfort to that. This new site gave me a clear path to download LastPass, using some bright colors and large font to direct me.</p>
 
-![LastPass Landing Page](../assets/Journal-1/LastPass%20Landing%20Page.png)
+![LastPass Landing Page](assets/Journal-1/LastPass%20Landing%20Page.png)
 
 <p>It was by following that path that I stumbled across my first challenge, installation instructions.</p>
 
