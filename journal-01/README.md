@@ -53,3 +53,5 @@
 
 
 <p>Once I had a password I was satisfied with, it was off to my LastPass vault, where a large plus had me thinking I could add a new entry. I’d remembered the action from other software and figured it would apply here too. Shortly after clicking the button, a new screen popped up with some fields for basic account information. I entered away, saved my fine password, and my quest was over.</p>
+
+[Return](../)
