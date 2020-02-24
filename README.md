@@ -2,7 +2,9 @@
 Hi,
 My name is Kira Casto and I am a 24 year old Computer Information Systems major. I live and work here in Chico, while taking full time classes.
 
-![Some Nerd](assets/ItMe.png)
+<img src="assets/ItMe.png" alt="Some nerd with a low res camera" width="250" height="auto">
+
+
 <span>
 I enrolled in Usability Engineering so I could learn more about why some things just feel better to use. I'm hoping I can improve the UX of my habits if nothing else!
 </span>
