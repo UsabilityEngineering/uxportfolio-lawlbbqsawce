@@ -1,7 +1,8 @@
 <html>
   <body>
     <span align="center">
-      <h2>Title</h2>
+      <h1>Forget Passwords!</h1>
+      <h2>An Adventure into Password Management</h2>
       <h3>by Kira Casto</h3>
       <h4>Feb 23, 2020</h4>
     </span>
