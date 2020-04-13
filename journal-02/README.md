@@ -1,6 +1,6 @@
 <span align="center">
   <h1>Not So Regular Expressions</h1>
-  <h2></h2>
+  <h2>Better than finding it yourself?</h2>
   <h3>by Kira Casto</h3>
   <h4>Apr 12, 2020</h4>
 </span>
