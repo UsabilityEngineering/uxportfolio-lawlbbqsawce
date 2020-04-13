@@ -15,4 +15,5 @@ I enrolled in Usability Engineering so I could learn more about why some things 
 <h3><strong>UX Journal</strong><h3>
 
 [Journal One](/journal-01/README.md)
+<br>
 [Journal Two](/journal-02/README.md)
