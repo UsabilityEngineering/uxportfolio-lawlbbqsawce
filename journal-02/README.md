@@ -1,6 +1,6 @@
 <span align="center">
   <h1>Not So Regular Expressions</h1>
-  <h2>Better than finding it yourself?</h2>
+  <h2>Because a pattern is worth a thousand words</h2>
   <h3>by Kira Casto</h3>
   <h4>Apr 12, 2020</h4>
 </span>
@@ -30,5 +30,7 @@ Ultimately, RegEx does tend to lack overall <strong>learnability</strong> for th
 the opposite, the potential effort required to <strong>effectively</strong> match patterns will rely on the </strong>efficiency</strong> of the user's patterns.
 For those to whom <strong>memorability</strong> comes naturally, RegEx could be the toolbelt they didn't know they were missing. For everyone else,
 it may just be the toolbelt they didn't know they'd never use.</p>
+<br><br><br>
+<p>Images were intentionally left out of this journal to display learnability qualities of RegEx through explanation rather than example to focus on the underlying concepts instead of the results. Since problems will often have many solutions in RegEx, the images would likely convey more information about results than the RegEx solution.</p>
 
 [Return](../../../)
