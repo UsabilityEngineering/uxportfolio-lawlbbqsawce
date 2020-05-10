@@ -17,3 +17,5 @@ I enrolled in Usability Engineering so I could learn more about why some things 
 [Journal One](/journal-01/README.md)
 <br>
 [Journal Two](/journal-02/README.md)
+<br>
+[Journal Three](/journal-03/README.md)
